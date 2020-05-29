@@ -1,4 +1,5 @@
 # csci-241-ch06-5
+Boolean_Calculator 
 
 This is a good exercise to use a table-driven selection. You can download the stub file ch06_06stub.asm that provides the main menu code and a table-driven structure. Your programming is to fill out all the blank procedures. Before working, please download and play this ch06_06.exe to make sure that you understand what you are going to create! The following is just an example when you first hit 2 to do OR and then hit 3 to do NOT.
 
